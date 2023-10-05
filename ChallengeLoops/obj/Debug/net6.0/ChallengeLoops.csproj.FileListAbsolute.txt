@@ -1,0 +1,30 @@
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\bin\Debug\net6.0\ChallengeLoops.exe
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\bin\Debug\net6.0\ChallengeLoops.deps.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\bin\Debug\net6.0\ChallengeLoops.runtimeconfig.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\bin\Debug\net6.0\ChallengeLoops.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\bin\Debug\net6.0\ChallengeLoops.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\obj\Debug\net6.0\ChallengeLoops.csproj.AssemblyReference.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\obj\Debug\net6.0\ChallengeLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\obj\Debug\net6.0\ChallengeLoops.AssemblyInfoInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\obj\Debug\net6.0\ChallengeLoops.AssemblyInfo.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\obj\Debug\net6.0\ChallengeLoops.csproj.CoreCompileInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\obj\Debug\net6.0\ChallengeLoops.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\obj\Debug\net6.0\refint\ChallengeLoops.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\obj\Debug\net6.0\ChallengeLoops.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\obj\Debug\net6.0\ChallengeLoops.genruntimeconfig.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\obj\Debug\net6.0\ref\ChallengeLoops.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\bin\Debug\net6.0\ChallengeLoops.exe
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\bin\Debug\net6.0\ChallengeLoops.deps.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\bin\Debug\net6.0\ChallengeLoops.runtimeconfig.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\bin\Debug\net6.0\ChallengeLoops.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\bin\Debug\net6.0\ChallengeLoops.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\obj\Debug\net6.0\ChallengeLoops.csproj.AssemblyReference.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\obj\Debug\net6.0\ChallengeLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\obj\Debug\net6.0\ChallengeLoops.AssemblyInfoInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\obj\Debug\net6.0\ChallengeLoops.AssemblyInfo.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\obj\Debug\net6.0\ChallengeLoops.csproj.CoreCompileInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\obj\Debug\net6.0\ChallengeLoops.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\obj\Debug\net6.0\refint\ChallengeLoops.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\obj\Debug\net6.0\ChallengeLoops.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\obj\Debug\net6.0\ChallengeLoops.genruntimeconfig.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\8 - Challenge Loops\ChallengeLoops\ChallengeLoops\obj\Debug\net6.0\ref\ChallengeLoops.dll
